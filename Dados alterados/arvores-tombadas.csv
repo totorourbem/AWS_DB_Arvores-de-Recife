@@ -1,52 +1,50 @@
-﻿familia,,nome_popular,nome_cientifico,,identifica,numero,este,norte,endereco (subdividir e respeitar nova tabela com relação a microregiao e ponto de referencia,observacao,,"decreto (padronizar nome e ano), como dispositivo legal ",,microregiao (correlacionar a endereços e congeneres),,rpa (identificar_,,,latitude,longitude
-Bombacaceae,,Baobá,Adansonia digitata L.,,1,1,28.785.800.000.000.000,911.159.300.000.000.000,"Rua Marques de Tamandaré, 160 - Casa Forte - na frente do poste 9/389",,,14.288/88,,3.1,,3,,,-8.032664,-34.924881
-Arecaceae,,Palmeira Imperial,Roystonea oleracea Cook,,3,3,28.572.800.000.000.000,911.344.600.000.000.000,Av. Dom Manoel Medeiros ? Dois Irmãos - Praça ? na frente do poste  73/95,,,14.288/88,,3.1,,3,,,-8.015821,-34.94412
-Moraceae,,Jaqueira,Artocarpus heterophylla Lam.,,4,4,28.897.800.000.000.000,911.236.800.000.000.000,Rua Major Nereu Guerra / Rua Dr. Carlos Mavignier - Casa Amarela - ao lado do n°166,Erradicação e substituição  pela resolução 04/09 de 11 de maio de 2009.,,14.288/88,,3.1,,3,,,-8.025705,-34.91469
-Bombacaceae,,Carolina,Pachira aquatica Aubl.,,5,5,29.116.700.000.000.000,911.178.400.000.000.000,Rua José  Alexandre Caçador - Rosarinho - em frente ao ferro velho,Erradicação e substituição pela resolução 04/03 de 5 de maio de 2003,,14.288/88,,2.1,,2,,,-8.031077,-34.89486
-Bombacaceae,,Carolina,Pachira aquatica Aubl,,6,6,29.114.600.000.000.000,911.188.700.000.000.000,Av. Santos Dumont ? Rosarinho - na frente dos postes 69/289 e 71/289 n° 1376,,,14.288/88,,2.1,,2,,,-8.030145,-34.895046
-Bombacaceae,,Baobá,Adansonia digitata L.,,7,7,29.211.800.000.000.000,911.337.900.000.000.000,"Coronel Urbano, 517 - Fundão de Dentro",,,14.288/88,,2.1,,2,,,-8.016696,-34.886168
-Moraceae,,Gameleira,Ficus sp.,,8,8,29.211.800.000.000.000,911.337.900.000.000.000,"Sitio Pai Adão, 1644 - Estrada Velha de Água Fria ? Água Fria",,,14.288/88,,2.2,,2,,,-8.016696,-34.886168
-Bombacaceae,,Barriguda,Ceiba pentandra (L.) Gaertn,,9,9,29.038.500.000.000.000,911.296.400.000.000.000,Rua Julio Lima - Água Fria - ao lado do imóvel 32,,,14.288/88,,2.2,,2,,,-8.020376,-34.901903
-Bombacaceae,,Barriguda,Ceiba pentandra (L.) Gaertn,,10,10,29.038.400.000.000.000,911.307.000.000.000.000,Rua Julio Lima - Água Fria - ao lado do imóvel 256,,,14.288/88,,2.2,,2,,,-8.019418,-34.901908
-Anacardiaceae,,Cajueiro,Anacardium occidentale L.,,11,11,28.981.800.000.000.000,911.151.100.000.000.000,"Rua Padre Roma, 375 ? Ed. Via Mariana ? Parnamirim",Erradicação e substituição pela resolução 04/03 de 5 de maio de 2003. Recém plantada ? inform. GIM ? 2010.,,14.288/88,,3.1,,3,,,-8.033488,-34.907107
-Bombacaceae,,Barriguda,Ceiba pentandra (L.) Gaertn,,12,12,28.983.000.000.000.000,911.162.200.000.000.000,"Rua Sebastião Alves, 220 - Ed. Príncipe de Orange - Parnamirim - na frente do poste 12/295",,,14.288/88,,3.1,,3,,,-8.032485,-34.906993
-Bombacaceae,,Baóba,Adansonia digitata L.,,13,13,29.012.100.000.000.000,911.065.600.000.000.000,Rua Madre Loyola ? Jaqueira ? à margem do rio Capibaribe,,,14.288/88,,3.1,,3,,,-8.04123,-34.904395
-Bombacaceae,,Baóba,Adansonia digitata L.,,14,14,28.916.100.000.000.000,910.771.100.000.000.000,"Estrada Velha do Bongi, 425 ? AT Bongi",,,14.288/88,,5.1,,5,,,-8.067814,-34.913227
-Bombacaceae,,Baóba,Adansonia digitata L.,,15,15,28.917.000.000.000.000,910.770.500.000.000.000,"Estrada Velha do Bongi, 425 ? AT Bongi",,,14.288/88,,5.1,,5,,,-8.067869,-34.913146
-Bombacaceae,,Baóba,Adansonia digitata L.,,16,16,28.916.000.000.000.000,910.770.100.000.000.000,"Estrada Velha do Bongi, 425 ? AT Bongi",,,14.288/88,,5.1,,5,,,-8.067905,-34.913237
-Moraceae,,Gameleira,Ficus sp.,,17,19,29.121.700.000.000.000,911.050.200.000.000.000,Rua Conselheiro Portela / Barão de Itamaracá ? Espinheiro - ao lado da Matriz do Espinheiro,,,14.288/88,,3.1,,3,,,-8.042669,-34.89446
-Bombacaceae,,Baobá,Adansonia digitata L.,,18,20,29.311.700.000.000.000,910.853.800.000.000.000,"Rua das Princesas, Praça Republica ? Santo Antônio - em frente ao Palácio do Governo",,,14.288/88,,1.2,,1,,,-8.060504,-34.877308
-Anacardiaceae,,Barriguda,Ceiba pentandra (L.) Gaertn,,19,21,29.013.900.000.000.000,910.128.800.000.000.000,Rua Desembargador João Paes - Boa Viagem,,,Lei 4771 de 15 de setembro de 1965,,6.1,,6,,,-8.125923,-34.904629
-Anacardiaceae,,Mangueira,Mangifera indica L.,,20,22,28.954.400.000.000.000,911.201.600.000.000.000,"Rua Astronauta Neil Armstrong, 42 ? Tamarineira",,,11.379/79,,3.1,,3,,,-8.028911,-34.909571
-Anacardiaceae,,Mangueira,Mangifera indica L.,,21,23,28.954.000.000.000.000,911.200.400.000.000.000,"Rua Astronauta Neil Armstrong, 42 ? Tamarineira",,,11.379/79,,3.1,,3,,,-8.029019,-34.909608
-Sapotaceae,,Sapotizeiro,Achas sapota L.,,22,24,28.953.800.000.000.000,911.200.400.000.000.000,"Rua Astronauta Neil Armstrong, 42 ? Tamarineira",,,11.379/79,,3.1,,3,,,-8.029019,-34.909626
-Anacardiaceae,,Mangueira,Mangifera indica L.,,23,25,28.953.900.000.000.000,911.200.400.000.000.000,"Rua Astronauta Neil Armstrong, 42 ? Tamarineira",,,11.379/79,,3.1,,3,,,-8.029019,-34.909617
-Anacardiaceae,,Mangueira,Mangifera indica L.,,24,26,28.953.000.000.000.000,911.198.600.000.000.000,"Rua Astronauta Neil Armstrong, 42 ? Tamarineira",,,11.379/79,,3.1,,3,,,-8.029182,-34.909699
-Moraceae,,Jaqueira,Artocarpus heterophylla Lam.,,25,27,28.953.700.000.000.000,911.197.500.000.000.000,Rua Astronauta Neil Armstrong - Casa Amarela,,,11.379/79,,3.1,,3,,,-8.029281,-34.909636
-Anacardiaceae,,Mangueira,Mangifera indica L.,,26,28,28.952.400.000.000.000,911.197.500.000.000.000,"Rua Astronauta Neil Armstrong, 42 ? Tamarineira",,,11.379/79,,3.1,,3,,,-8.029281,-34.909754
-Anacardiaceae,,Mangueira,Mangifera indica L.,,27,29,28.951.600.000.000.000,911.195.100.000.000.000,"Rua Astronauta Neil Armstrong, 42 ? Tamarineira",,,11.379/79,,3.1,,3,,,-8.029498,-34.909828
-Moraceae,,Jaqueira,Artocarpus heterophylla  Lam.,,28,30,28.951.200.000.000.000,911.193.800.000.000.000,"Rua Astronauta Neil Armstrong, 42 ? Tamarineira",,,11.379/79,,3.1,,3,,,-8.029615,-34.909864
-Anacardiaceae,,Mangueira,Mangifera indica L.,,29,31,28.949.300.000.000.000,911.189.500.000.000.000,Rua Astronauta Neil Armstrong - Casa Amarela,,,11.379/79,,3.1,,3,,,-8.030003,-34.910039
-Anacardiaceae,,Mangueira,Mangifera indica L.,,30,32,28.950.000.000.000.000,911.191.600.000.000.000,"Rua Astronauta Neil Armstrong, 42 ? Tamarineira",,,11.379/79,,3.1,,3,,,-8.029813,-34.909974
-Bombacaceae,,Barriguda,Ceiba pentandra (L.) Gaertn,,31,34,28.781.500.000.000.000,911.204.800.000.000.000,"Av. 17 de agosto, 2388 ? Casa Forte",,,18021/98,,3.1,,3,,,-8.028549,-34.925252
-Bombacaceae,,Barriguda,Ceiba pentandra (L.) Gaertn,,32,35,28.460.400.000.000.000,910.932.900.000.000.000,"Av. Acadêmico Helio Ramos, s/n ? Cidade Universitária - Jardim Interno do Centro de Tec. e Geo. da UFPE",,,18.189/99,,4.3,,4,,,-8.052992,-34.954493
-Bombacaceae,,Baobá,Adansonia digitata L.,,33,36,28.499.700.000.000.000,910.980.500.000.000.000,Centro de Ciências Aplicadas da UFPE ? Cidade Universitária,,,18.862/01,,4.3,,4,,,-8.048706,-34.950907
-Bombacaceae,,Baobá,Adansonia digitata L.,,34,37,29.144.300.000.000.000,911.121.500.000.000.000,Girador atrás do Mercado da Encruzilhada ? Encruzilhada,,,18.862/01,,2.1,,2,,,-8.036232,-34.89238
-Bombacaceae,,Baobá,Adansonia digitata L.,,35,38,29.011.700.000.000.000,911.112.600.000.000.000,Parque da Jaqueira - Jaqueira,,,18.862/01,,3.1,,3,,,-8.036981,-34.904411
-Sapotaceae,,Sapotizeiro,Achas sapota L.,,36,39,29.030.300.000.000.000,910.837.000.000.000.000,"Rua Abdias de Carvalho, s/n ? Ilha do Retiro - SPORT Club do Recife",,,19.028/01,,4.1,,4,,,-8.061905,-34.90284
-Anacardiaceae,,Mangueira,Mangifera indica L.,,37,40,28.819.000.000.000.000,911.083.600.000.000.000,"Rua Joaquim Xavier de Andrade, 151 ? Poço da Panela",,,19.237/02,,3.1,,3,,,-8.039522,-34.921902
-Anacardiaceae,,Mangueira,Mangifera indica L.,,38,41,28.820.500.000.000.000,911.083.700.000.000.000,"Rua Joaquim Xavier de Andrade, 117 ? Poço da Panela",,,19.237/02,,3.1,,3,,,-8.039513,-34.921766
-Anacardiaceae,,Cajazeira,Spondias mombin L.,,39,42,28.819.800.000.000.000,911.083.200.000.000.000,"Rua Joaquim Xavier de Andrade, 136 ? Poço da Panela",,,19.237/02,,3.1,,3,,,-8.039558,-34.921829
-Bombacaceae,,Baobá,Adansonia digitata L.,,40,43,29.251.500.000.000.000,910.881.400.000.000.000,Rua Princesa Isabel ? Praça Adolfo Cirne ? Boa Vista,,,20.041/03,,1.2,,1,,,-8.057983,-34.882757
-Moraceae,,Jaqueira,Artocarpus heterophylla Lam.,,41,44,29.001.400.000.000.000,911.107.100.000.000.000,Parque da Jaqueira - Jaqueira,,,20.438/04,,3.1,,3,,,-8.037474,-34.905348
-Tiliaceae,,Pau-de-jangada,Apeiba tibourbou Aubl.,,42,45,28.851.700.000.000.000,911.060.600.000.000.000,Parque de Santana - Santana,,,20.438/04,,3.1,,3,,,-8.041615,-34.918946
-Moraceae,,Gameleira,Fícus sp.,,43,46,29.029.200.000.000.000,911.481.100.000.000.000,"Rua Mamede Coelho, 231 - Dois Unidos - Terreiro Ilê Oba Okoloyiá",,,24.342/09,,2.3,,2,,,-8.003674,-34.902669
-Bombacaceae,,Baobá,Adansonia digitata L.,,44,47,28.589.700.000.000.000,910.890.000.000.000.000,"Praça Dr. Arnaldo Assunção, próxima ao terminal - Engenho do Meio",,,24.612/09,,4.2,,4,,,-8.056926,-34.942783
-Caesalpiniaceae,,Pau-Brasil,Caesalpinia echinata - Lam,,45,48,29.139.200.000.000.000,910.991.700.000.000.000,"Av. Agamenon Magalhães, 2978 ? Espinheiro - CREA-PE",,,24.757/09,,3.1,,3,,,-8.047965,-34.892897
-Bombacaceae,,Baobá,Adansonia digitata L.,,46,49,28.594.600.000.000.000,910.541.600.000.000.000,"Av. Paulo Afonso, s/n - Barro - Escola Olindina Alves Semente",,,24.758/09,,5.3,,5,,,-8.088424,-34.942489
-Fabaceae,,Guapuruvu,Shizolobium parahyba (Vell.) S.F.Blake,,47,50,28.860.500.000.000.000,911.372.100.000.000.000,"Av. Dom Manoel de Medeiros, s/n - Dois Irmãos - Fundos do prédio de Tecnologia Rural da UFRPE",,,25.691/2011,,3.1,,3,,,-8.013458,-34.918015
-Rabiaceae,,Pau Mulato,Calicophyllum parahyba (Benth.) Hool. F. Ex K. Shum,,48,51,28.554.500.000.000.000,911.336.500.000.000.000,"Av. Dom Manoel de Medeiros, s/n - Dois Irmãos - Fundos do prédio de Tecnologia Rural da UFRPE",,,25.691/2011,,3.1,,3,,,-8.016546,-34.945784
-Arecaceae,,Macaibeira,Acroconomia intumescens Drude,,49,52,28.555.200.000.000.000,911.332.300.000.000.000,"Confluência das ruas Henrique Machado com Ambrosina Carneiro, em frente a casa dos Humildes, s/n - Santana, Casa Forte",,,25.689/2011,,3.1,,3,,,-8.016926,-34.945722
-Anacardiaceae,,Cajueiro,Anacardium occidentale L.,,50,53,28.523.700.000.000.000,911.361.700.000.000.000,"Av. Dom Manoel de Medeiros, s/n - Dois Irmãos - Pátio interno do estacionamento do prédio de Veterinária da UFRPE",,,25.690/2011,,3.1,,3,,,-8.014254,-34.948566
-,,,,,,,,,,,,,,,,,,,,
-
+familia,,nome_popular,nome_cientifico,,identifica,numero,este,norte,endereco (subdividir e respeitar nova tabela com relação a microregiao e ponto de referencia,observacao,,"decreto (padronizar nome e ano), como dispositivo legal ",,microregiao (correlacionar a endereços e congeneres),,rpa (identificar_,,,latitude,longitude
+Bombacaceae,,Baobá,Adansonia digitata L.,,1,1,"2,87858E+016","9,111593E+017","Rua Marques de Tamandaré, 160 - Casa Forte - na frente do poste 9/389",,,14.288/88,,3.1,,3,,,-8.032664,-34.924881
+Arecaceae,,Palmeira Imperial,Roystonea oleracea Cook,,3,3,"2,85728E+016","9,113446E+017",Av. Dom Manoel Medeiros ? Dois Irmãos - Praça ? na frente do poste  73/95,,,14.288/88,,3.1,,3,,,-8.015821,-34.94412
+Moraceae,,Jaqueira,Artocarpus heterophylla Lam.,,4,4,"2,88978E+016","9,112368E+017",Rua Major Nereu Guerra / Rua Dr. Carlos Mavignier - Casa Amarela - ao lado do n°166,Erradicação e substituição  pela resolução 04/09 de 11 de maio de 2009.,,14.288/88,,3.1,,3,,,-8.025705,-34.91469
+Bombacaceae,,Carolina,Pachira aquatica Aubl.,,5,5,"2,91167E+016","9,111784E+017",Rua José  Alexandre Caçador - Rosarinho - em frente ao ferro velho,Erradicação e substituição pela resolução 04/03 de 5 de maio de 2003,,14.288/88,,2.1,,2,,,-8.031077,-34.89486
+Bombacaceae,,Carolina,Pachira aquatica Aubl,,6,6,"2,91146E+016","9,111887E+017",Av. Santos Dumont ? Rosarinho - na frente dos postes 69/289 e 71/289 n° 1376,,,14.288/88,,2.1,,2,,,-8.030145,-34.895046
+Bombacaceae,,Baobá,Adansonia digitata L.,,7,7,"2,92118E+016","9,113379E+017","Coronel Urbano, 517 - Fundão de Dentro",,,14.288/88,,2.1,,2,,,-8.016696,-34.886168
+Moraceae,,Gameleira,Ficus sp.,,8,8,"2,92118E+016","9,113379E+017","Sitio Pai Adão, 1644 - Estrada Velha de Água Fria ? Água Fria",,,14.288/88,,2.2,,2,,,-8.016696,-34.886168
+Bombacaceae,,Barriguda,Ceiba pentandra (L.) Gaertn,,9,9,"2,90385E+016","9,112964E+017",Rua Julio Lima - Água Fria - ao lado do imóvel 32,,,14.288/88,,2.2,,2,,,-8.020376,-34.901903
+Bombacaceae,,Barriguda,Ceiba pentandra (L.) Gaertn,,10,10,"2,90384E+016","9,11307E+017",Rua Julio Lima - Água Fria - ao lado do imóvel 256,,,14.288/88,,2.2,,2,,,-8.019418,-34.901908
+Anacardiaceae,,Cajueiro,Anacardium occidentale L.,,11,11,"2,89818E+016","9,111511E+017","Rua Padre Roma, 375 ? Ed. Via Mariana ? Parnamirim",Erradicação e substituição pela resolução 04/03 de 5 de maio de 2003. Recém plantada ? inform. GIM ? 2010.,,14.288/88,,3.1,,3,,,-8.033488,-34.907107
+Bombacaceae,,Barriguda,Ceiba pentandra (L.) Gaertn,,12,12,"2,8983E+016","9,111622E+017","Rua Sebastião Alves, 220 - Ed. Príncipe de Orange - Parnamirim - na frente do poste 12/295",,,14.288/88,,3.1,,3,,,-8.032485,-34.906993
+Bombacaceae,,Baóba,Adansonia digitata L.,,13,13,"2,90121E+016","9,110656E+017",Rua Madre Loyola ? Jaqueira ? à margem do rio Capibaribe,,,14.288/88,,3.1,,3,,,-8.04123,-34.904395
+Bombacaceae,,Baóba,Adansonia digitata L.,,14,14,"2,89161E+016","9,107711E+017","Estrada Velha do Bongi, 425 ? AT Bongi",,,14.288/88,,5.1,,5,,,-8.067814,-34.913227
+Bombacaceae,,Baóba,Adansonia digitata L.,,15,15,"2,8917E+016","9,107705E+017","Estrada Velha do Bongi, 425 ? AT Bongi",,,14.288/88,,5.1,,5,,,-8.067869,-34.913146
+Bombacaceae,,Baóba,Adansonia digitata L.,,16,16,"2,8916E+016","9,107701E+017","Estrada Velha do Bongi, 425 ? AT Bongi",,,14.288/88,,5.1,,5,,,-8.067905,-34.913237
+Moraceae,,Gameleira,Ficus sp.,,17,19,"2,91217E+016","9,110502E+017",Rua Conselheiro Portela / Barão de Itamaracá ? Espinheiro - ao lado da Matriz do Espinheiro,,,14.288/88,,3.1,,3,,,-8.042669,-34.89446
+Bombacaceae,,Baobá,Adansonia digitata L.,,18,20,"2,93117E+016","9,108538E+017","Rua das Princesas, Praça Republica ? Santo Antônio - em frente ao Palácio do Governo",,,14.288/88,,1.2,,1,,,-8.060504,-34.877308
+Anacardiaceae,,Barriguda,Ceiba pentandra (L.) Gaertn,,19,21,"2,90139E+016","9,101288E+017",Rua Desembargador João Paes - Boa Viagem,,,Lei 4771 de 15 de setembro de 1965,,6.1,,6,,,-8.125923,-34.904629
+Anacardiaceae,,Mangueira,Mangifera indica L.,,20,22,"2,89544E+016","9,112016E+017","Rua Astronauta Neil Armstrong, 42 ? Tamarineira",,,11.379/79,,3.1,,3,,,-8.028911,-34.909571
+Anacardiaceae,,Mangueira,Mangifera indica L.,,21,23,"2,8954E+016","9,112004E+017","Rua Astronauta Neil Armstrong, 42 ? Tamarineira",,,11.379/79,,3.1,,3,,,-8.029019,-34.909608
+Sapotaceae,,Sapotizeiro,Achas sapota L.,,22,24,"2,89538E+016","9,112004E+017","Rua Astronauta Neil Armstrong, 42 ? Tamarineira",,,11.379/79,,3.1,,3,,,-8.029019,-34.909626
+Anacardiaceae,,Mangueira,Mangifera indica L.,,23,25,"2,89539E+016","9,112004E+017","Rua Astronauta Neil Armstrong, 42 ? Tamarineira",,,11.379/79,,3.1,,3,,,-8.029019,-34.909617
+Anacardiaceae,,Mangueira,Mangifera indica L.,,24,26,"2,8953E+016","9,111986E+017","Rua Astronauta Neil Armstrong, 42 ? Tamarineira",,,11.379/79,,3.1,,3,,,-8.029182,-34.909699
+Moraceae,,Jaqueira,Artocarpus heterophylla Lam.,,25,27,"2,89537E+016","9,111975E+017",Rua Astronauta Neil Armstrong - Casa Amarela,,,11.379/79,,3.1,,3,,,-8.029281,-34.909636
+Anacardiaceae,,Mangueira,Mangifera indica L.,,26,28,"2,89524E+016","9,111975E+017","Rua Astronauta Neil Armstrong, 42 ? Tamarineira",,,11.379/79,,3.1,,3,,,-8.029281,-34.909754
+Anacardiaceae,,Mangueira,Mangifera indica L.,,27,29,"2,89516E+016","9,111951E+017","Rua Astronauta Neil Armstrong, 42 ? Tamarineira",,,11.379/79,,3.1,,3,,,-8.029498,-34.909828
+Moraceae,,Jaqueira,Artocarpus heterophylla  Lam.,,28,30,"2,89512E+016","9,111938E+017","Rua Astronauta Neil Armstrong, 42 ? Tamarineira",,,11.379/79,,3.1,,3,,,-8.029615,-34.909864
+Anacardiaceae,,Mangueira,Mangifera indica L.,,29,31,"2,89493E+016","9,111895E+017",Rua Astronauta Neil Armstrong - Casa Amarela,,,11.379/79,,3.1,,3,,,-8.030003,-34.910039
+Anacardiaceae,,Mangueira,Mangifera indica L.,,30,32,"2,895E+016","9,111916E+017","Rua Astronauta Neil Armstrong, 42 ? Tamarineira",,,11.379/79,,3.1,,3,,,-8.029813,-34.909974
+Bombacaceae,,Barriguda,Ceiba pentandra (L.) Gaertn,,31,34,"2,87815E+016","9,112048E+017","Av. 17 de agosto, 2388 ? Casa Forte",,,18021/98,,3.1,,3,,,-8.028549,-34.925252
+Bombacaceae,,Barriguda,Ceiba pentandra (L.) Gaertn,,32,35,"2,84604E+016","9,109329E+017","Av. Acadêmico Helio Ramos, s/n ? Cidade Universitária - Jardim Interno do Centro de Tec. e Geo. da UFPE",,,18.189/99,,4.3,,4,,,-8.052992,-34.954493
+Bombacaceae,,Baobá,Adansonia digitata L.,,33,36,"2,84997E+016","9,109805E+017",Centro de Ciências Aplicadas da UFPE ? Cidade Universitária,,,18.862/01,,4.3,,4,,,-8.048706,-34.950907
+Bombacaceae,,Baobá,Adansonia digitata L.,,34,37,"2,91443E+016","9,111215E+017",Girador atrás do Mercado da Encruzilhada ? Encruzilhada,,,18.862/01,,2.1,,2,,,-8.036232,-34.89238
+Bombacaceae,,Baobá,Adansonia digitata L.,,35,38,"2,90117E+016","9,111126E+017",Parque da Jaqueira - Jaqueira,,,18.862/01,,3.1,,3,,,-8.036981,-34.904411
+Sapotaceae,,Sapotizeiro,Achas sapota L.,,36,39,"2,90303E+016","9,10837E+017","Rua Abdias de Carvalho, s/n ? Ilha do Retiro - SPORT Club do Recife",,,19.028/01,,4.1,,4,,,-8.061905,-34.90284
+Anacardiaceae,,Mangueira,Mangifera indica L.,,37,40,"2,8819E+016","9,110836E+017","Rua Joaquim Xavier de Andrade, 151 ? Poço da Panela",,,19.237/02,,3.1,,3,,,-8.039522,-34.921902
+Anacardiaceae,,Mangueira,Mangifera indica L.,,38,41,"2,88205E+016","9,110837E+017","Rua Joaquim Xavier de Andrade, 117 ? Poço da Panela",,,19.237/02,,3.1,,3,,,-8.039513,-34.921766
+Anacardiaceae,,Cajazeira,Spondias mombin L.,,39,42,"2,88198E+016","9,110832E+017","Rua Joaquim Xavier de Andrade, 136 ? Poço da Panela",,,19.237/02,,3.1,,3,,,-8.039558,-34.921829
+Bombacaceae,,Baobá,Adansonia digitata L.,,40,43,"2,92515E+016","9,108814E+017",Rua Princesa Isabel ? Praça Adolfo Cirne ? Boa Vista,,,20.041/03,,1.2,,1,,,-8.057983,-34.882757
+Moraceae,,Jaqueira,Artocarpus heterophylla Lam.,,41,44,"2,90014E+016","9,111071E+017",Parque da Jaqueira - Jaqueira,,,20.438/04,,3.1,,3,,,-8.037474,-34.905348
+Tiliaceae,,Pau-de-jangada,Apeiba tibourbou Aubl.,,42,45,"2,88517E+016","9,110606E+017",Parque de Santana - Santana,,,20.438/04,,3.1,,3,,,-8.041615,-34.918946
+Moraceae,,Gameleira,Fícus sp.,,43,46,"2,90292E+016","9,114811E+017","Rua Mamede Coelho, 231 - Dois Unidos - Terreiro Ilê Oba Okoloyiá",,,24.342/09,,2.3,,2,,,-8.003674,-34.902669
+Bombacaceae,,Baobá,Adansonia digitata L.,,44,47,"2,85897E+016","9,1089E+017","Praça Dr. Arnaldo Assunção, próxima ao terminal - Engenho do Meio",,,24.612/09,,4.2,,4,,,-8.056926,-34.942783
+Caesalpiniaceae,,Pau-Brasil,Caesalpinia echinata - Lam,,45,48,"2,91392E+016","9,109917E+017","Av. Agamenon Magalhães, 2978 ? Espinheiro - CREA-PE",,,24.757/09,,3.1,,3,,,-8.047965,-34.892897
+Bombacaceae,,Baobá,Adansonia digitata L.,,46,49,"2,85946E+016","9,105416E+017","Av. Paulo Afonso, s/n - Barro - Escola Olindina Alves Semente",,,24.758/09,,5.3,,5,,,-8.088424,-34.942489
+Fabaceae,,Guapuruvu,Shizolobium parahyba (Vell.) S.F.Blake,,47,50,"2,88605E+016","9,113721E+017","Av. Dom Manoel de Medeiros, s/n - Dois Irmãos - Fundos do prédio de Tecnologia Rural da UFRPE",,,25.691/2011,,3.1,,3,,,-8.013458,-34.918015
+Rabiaceae,,Pau Mulato,Calicophyllum parahyba (Benth.) Hool. F. Ex K. Shum,,48,51,"2,85545E+016","9,113365E+017","Av. Dom Manoel de Medeiros, s/n - Dois Irmãos - Fundos do prédio de Tecnologia Rural da UFRPE",,,25.691/2011,,3.1,,3,,,-8.016546,-34.945784
+Arecaceae,,Macaibeira,Acroconomia intumescens Drude,,49,52,"2,85552E+016","9,113323E+017","Confluência das ruas Henrique Machado com Ambrosina Carneiro, em frente a casa dos Humildes, s/n - Santana, Casa Forte",,,25.689/2011,,3.1,,3,,,-8.016926,-34.945722
+Anacardiaceae,,Cajueiro,Anacardium occidentale L.,,50,53,"2,85237E+016","9,113617E+017","Av. Dom Manoel de Medeiros, s/n - Dois Irmãos - Pátio interno do estacionamento do prédio de Veterinária da UFRPE",,,25.690/2011,,3.1,,3,,,-8.014254,-34.948566

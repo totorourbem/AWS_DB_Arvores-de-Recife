@@ -1,0 +1,50 @@
+arvore_familia_fk,arvore_especie_fk,arvore_W_coord,arvore_N_coord,arvore_latitude,arvore_longitude,arvore_endereço,arvore_ponto_referencia,arvore_observacoes,arvore_rpa_fk,arvore_dispositivo_legal_fk
+3,3,28785800000000000,911159300000000000,-8.032664,-34.924881,"Rua Marques de Tamandaré, 160 - Casa Forte",na frente do poste 9/389,,3,2
+2,13,28572800000000000,911344600000000000,-8.015821,-34.94412,Av. Dom Manoel Medeiros - Dois Irmãos,Praça na frente do poste  73/95,,3,2
+6,6,28897800000000000,911236800000000000,-8.025705,-34.91469,Rua Major Nereu Guerra / Rua Dr. Carlos Mavignier - Casa Amarela,ao lado do n°166,Erradicação e substituição  pela resolução 04/09 de 11 de maio de 2009.,3,2
+3,12,29116700000000000,911178400000000000,-8.031077,-34.89486,Rua José  Alexandre Caçador – Rosarinho,em frente ao ferro velho,Erradicação e substituição pela resolução 04/03 de 5 de maio de 2003,2,2
+3,12,29114600000000000,911188700000000000,-8.030145,-34.895046,Av. Santos Dumont ? Rosarinho,na frente dos postes 69/289 e 71/289 n° 1376,,2,2
+3,3,29211800000000000,911337900000000000,-8.016696,-34.886168,"Coronel Urbano, 517 - Fundão de Dentro",,,2,2
+6,10,29211800000000000,911337900000000000,-8.016696,-34.886168,"Sitio Pai Adão, 1644 - Estrada Velha de Água Fria",,,2,2
+3,9,29038500000000000,911296400000000000,-8.020376,-34.901903,Rua Julio Lima - Água Fria,ao lado do imóvel 32,,2,2
+3,9,29038400000000000,911307000000000000,-8.019418,-34.901908,Rua Julio Lima - Água Fria,ao lado do imóvel 256,,2,2
+1,4,28981800000000000,911151100000000000,-8.033488,-34.907107,"Rua Padre Roma, 375 - Ed. Via Mariana- Parnamirim",,Erradicação e substituição pela resolução 04/03 de 5 de maio de 2003. Recém plantada ? inform. GIM ? 2010.,3,2
+3,9,28983000000000000,911162200000000000,-8.032485,-34.906993,"Rua Sebastião Alves, 220 - Ed. Príncipe de Orange – Parnamirim",na frente do poste 12/295,,3,2
+3,3,29012100000000000,911065600000000000,-8.04123,-34.904395,Rua Madre Loyola Jaqueira ,à margem do rio Capibaribe,,3,2
+3,3,28916100000000000,910771100000000000,-8.067814,-34.913227,"Estrada Velha do Bongi, 425 – AT Bongi",,,5,2
+3,3,28917000000000000,910770500000000000,-8.067869,-34.913146,"Estrada Velha do Bongi, 425 – AT Bongi",,,5,2
+3,3,28916000000000000,910770100000000000,-8.067905,-34.913237,"Estrada Velha do Bongi, 425 – AT Bongi",,,5,2
+6,10,29121700000000000,911050200000000000,-8.042669,-34.89446,Rua Conselheiro Portela / Barão de Itamaracá – Espinheiro,ao lado da Matriz do Espinheiro,,3,2
+3,3,29311700000000000,910853800000000000,-8.060504,-34.877308,"Rua das Princesas, Praça Republica - Santo Antônio",em frente ao Palácio do Governo,,1,2
+1,9,29013900000000000,910128800000000000,-8.125923,-34.904629,Rua Desembargador João Paes - Boa Viagem,,,6,17
+1,11,28954400000000000,911201600000000000,-8.028911,-34.909571,"Rua Astronauta Neil Armstrong, 42 - Tamarineira",,,3,1
+1,11,28954000000000000,911200400000000000,-8.029019,-34.909608,"Rua Astronauta Neil Armstrong, 42 - Tamarineira",,,3,1
+8,1,28953800000000000,911200400000000000,-8.029019,-34.909626,"Rua Astronauta Neil Armstrong, 42 - Tamarineira",,,3,1
+1,11,28953900000000000,911200400000000000,-8.029019,-34.909617,"Rua Astronauta Neil Armstrong, 42 - Tamarineira",,,3,1
+1,11,28953000000000000,911198600000000000,-8.029182,-34.909699,"Rua Astronauta Neil Armstrong, 42 - Tamarineira",,,3,1
+6,6,28953700000000000,911197500000000000,-8.029281,-34.909636,Rua Astronauta Neil Armstrong - Casa Amarela,,,3,1
+1,11,28952400000000000,911197500000000000,-8.029281,-34.909754,"Rua Astronauta Neil Armstrong, 42 - Tamarineira",,,3,1
+1,11,28951600000000000,911195100000000000,-8.029498,-34.909828,"Rua Astronauta Neil Armstrong, 42 - Tamarineira",,,3,1
+6,6,28951200000000000,911193800000000000,-8.029615,-34.909864,"Rua Astronauta Neil Armstrong, 42 - Tamarineira",,,3,1
+1,11,28949300000000000,911189500000000000,-8.030003,-34.910039,Rua Astronauta Neil Armstrong - Casa Amarela,,,3,1
+1,11,28950000000000000,911191600000000000,-8.029813,-34.909974,"Rua Astronauta Neil Armstrong, 42 - Tamarineira",,,3,1
+3,9,28781500000000000,911204800000000000,-8.028549,-34.925252,"Av. 17 de agosto, 2388 - Casa Forte",,,3,5
+3,9,28460400000000000,910932900000000000,-8.052992,-34.954493,"Av. Acadêmico Helio Ramos, s/n - Cidade Universitária", Jardim Interno do Centro de Tec. e Geo. da UFPE,,4,3
+3,3,28499700000000000,910980500000000000,-8.048706,-34.950907,Centro de Ciências Aplicadas da UFPE - Cidade Universitária,,,4,4
+3,3,29144300000000000,911121500000000000,-8.036232,-34.89238,Girador atrás do Mercado da Encruzilhada - Encruzilhada,,,2,4
+3,3,29011700000000000,911112600000000000,-8.036981,-34.904411,Parque da Jaqueira - Jaqueira,,,3,4
+8,1,29030300000000000,910837000000000000,-8.061905,-34.90284,"Rua Abdias de Carvalho, s/n - Ilha do Retiro - SPORT Club do Recife",,,4,6
+1,11,28819000000000000,911083600000000000,-8.039522,-34.921902,"Rua Joaquim Xavier de Andrade, 151 – Poço da Panela",,,3,7
+1,11,28820500000000000,911083700000000000,-8.039513,-34.921766,"Rua Joaquim Xavier de Andrade, 117 – Poço da Panela",,,3,7
+1,15,28819800000000000,911083200000000000,-8.039558,-34.921829,"Rua Joaquim Xavier de Andrade, 136 – Poço da Panela",,,3,7
+3,3,29251500000000000,910881400000000000,-8.057983,-34.882757,Rua Princesa Isabel/Adolfo Cirne - Boa Vista,,,1,8
+6,6,29001400000000000,911107100000000000,-8.037474,-34.905348,Parque da Jaqueira - Jaqueira,,,3,9
+9,5,28851700000000000,911060600000000000,-8.041615,-34.918946,Parque de Santana - Santana,,,3,9
+6,10,29029200000000000,911481100000000000,-8.003674,-34.902669,"Rua Mamede Coelho, 231 - Dois Unidos",Terreiro Ilê Oba Okoloyiá,,2,10
+3,3,28589700000000000,910890000000000000,-8.056926,-34.942783,"Praça Dr. Arnaldo Assunção, Engenho do Meio",próxima ao terminal,,4,11
+4,7,29139200000000000,910991700000000000,-8.047965,-34.892897,"Av. Agamenon Magalhães, 2978 – Espinheiro",CREA-PE,,3,12
+3,3,28594600000000000,910541600000000000,-8.088424,-34.942489,"Av. Paulo Afonso, s/n – Barro",Escola Olindina Alves Semente,,5,13
+5,14,28860500000000000,911372100000000000,-8.013458,-34.918015,"Av. Dom Manoel de Medeiros, s/n - Dois Irmãos",Fundos do prédio de Tecnologia Rural da UFRPE,,3,16
+7,8,28554500000000000,911336500000000000,-8.016546,-34.945784,"Av. Dom Manoel de Medeiros, s/n - Dois Irmãos",Fundos do prédio de Tecnologia Rural da UFRPE,,3,16
+2,2,28555200000000000,911332300000000000,-8.016926,-34.945722,"Confluência das ruas Henrique Machado com Ambrosina Carneiro, s/n - Santana, Casa Forte",em frente a casa dos Humildes,,3,14
+1,4,28523700000000000,911361700000000000,-8.014254,-34.948566,"Av. Dom Manoel de Medeiros, s/n - Dois Irmãos",Pátio interno do estacionamento do prédio de Veterinária da UFRPE,,3,15
